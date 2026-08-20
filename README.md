@@ -2,7 +2,7 @@
 
 > The ultimate browser extension for seamlessly running and managing multiple Roblox accounts on a single device at the same time.
 
-![Multiroblox Banner](assets/banner.png) <!-- Replace 'assets/banner.png' with the path to your actual banner or logo image -->
+![Multiroblox Banner](site.png) <!-- Replace 'assets/banner.png' with the path to your actual banner or logo image -->
 
 **Multiroblox** is designed for active players, developers, and traders who need to operate multiple accounts simultaneously. Forget about constantly logging in and out — keep all your accounts active and monitor their key stats directly from your browser toolbar.
 
@@ -26,9 +26,9 @@
 Here is a look at Multiroblox in action:
 
 <p align="center">
-  <img src="assets/screenshot_1.png" alt="Extension Popup showing multiple accounts" width="45%">
+  <img src="main.png" alt="Extension Popup showing multiple accounts" width="65%">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="assets/screenshot_2.png" alt="Robux balance and nicknames" width="45%">
+  <img src="prev.png" alt="Robux balance and nicknames" width="45%">
 </p>
 <!-- Replace the 'src' paths above with your actual screenshot image paths. -->
 
