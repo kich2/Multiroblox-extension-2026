@@ -56,3 +56,4 @@ If you encounter any issues, bugs, or have a feature request, please let us know
 ## ⚠️ Disclaimer
 
 Multiroblox is a third-party browser extension and is not affiliated with, endorsed, or sponsored by Roblox Corporation.
+
