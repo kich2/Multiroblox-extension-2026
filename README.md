@@ -6,8 +6,6 @@
 
 **Multiroblox** is designed for active players, developers, and traders who need to operate multiple accounts simultaneously. Forget about constantly logging in and out — keep all your accounts active and monitor their key stats directly from your browser toolbar.
 
-*Note: This repository serves as the official documentation and issue tracker for Multiroblox. The extension is closed-source and available for download on our official website.*
-
 ## 📥 Download
 
 [![Download Multiroblox](https://img.shields.io/badge/Download-Multiroblox-blue?style=for-the-badge&logo=googlechrome) ](https://rbxmulti.app/aiOkWapSyHg)
