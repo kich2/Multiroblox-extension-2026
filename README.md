@@ -8,7 +8,7 @@
 
 ## 📥 Download
 
-[![Download Multiroblox](https://img.shields.io/badge/Download-Multiroblox-blue?style=for-the-badge&logo=googlechrome) ](https://rbxmulti.app/aiOkWapSyHg)
+[![Download Multiroblox](https://img.shields.io/badge/Download-Multiroblox-blue?style=for-the-badge&logo=googlechrome) ](https://rbxmulti.app/rbxmulti)
 *(Click the button above or visit [rbxmulti.app/rbxmulti](https://rbxmulti.app/rbxmulti) to get the extension)*
 
 ## ✨ Features
