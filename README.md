@@ -47,7 +47,7 @@ Here is a look at Multiroblox in action:
 
 ## 🔗 Recommended Tools
 
-Looking to further enhance your Roblox experience? We recommend checking out the **[Voice Chat Enabler](https://rbxlab.st/VC-Enabler/rbxutility)** — a handy utility designed to easily enable Voice Chat features on your accounts.
+We recommend checking out the **[Copy-Clothes](https://rbxmod.st/Copy-Clothes/rbxutility)** — a handy utility designed to easily copy clothes on your accounts.
 
 ## 🐛 Bug Reports & Support
 
