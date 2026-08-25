@@ -45,6 +45,10 @@ Here is a look at Multiroblox in action:
 3. Keep track of your **Robux balance** and **Nicknames** on the main screen.
 4. Click on any account to launch a new session without logging out of your main account.
 
+## 🔗 Recommended Tools
+
+Looking to further enhance your Roblox experience? We recommend checking out the **[Voice Chat Enabler](https://rbxlab.st/VC-Enabler/rbxutility)** — a handy utility designed to easily enable Voice Chat features on your accounts.
+
 ## 🐛 Bug Reports & Support
 
 If you encounter any issues, bugs, or have a feature request, please let us know! 
