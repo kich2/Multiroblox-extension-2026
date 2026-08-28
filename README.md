@@ -45,10 +45,6 @@ Here is a look at Multiroblox in action:
 3. Keep track of your **Robux balance** and **Nicknames** on the main screen.
 4. Click on any account to launch a new session without logging out of your main account.
 
-## 🔗 Recommended Tools
-
-We recommend checking out the **[Copy-Clothes](https://rbxmod.st/Copy-Clothes/rbxutility)** — a handy utility designed to easily copy clothes on your accounts.
-
 ## 🐛 Bug Reports & Support
 
 If you encounter any issues, bugs, or have a feature request, please let us know! 
