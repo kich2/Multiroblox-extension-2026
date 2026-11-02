@@ -1,4 +1,4 @@
-# 🚀 Multiroblox
+#  Multiroblox
 
 > The ultimate browser extension for seamlessly running and managing multiple Roblox accounts on a single device at the same time.
 
